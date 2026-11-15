@@ -1,1 +1,1 @@
-const menu=document.getElementById('menu');const nav=document.getElementById('nav');menu.addEventListener('click',()=>nav.classList.toggle('open'));document.getElementById('year').textContent=new Date().getFullYear();document.getElementById('lang').addEventListener('click',()=>{alert('বাংলা সংস্করণ প্রস্তুত করা হচ্ছে।');});
+const menu=document.getElementById('menu');const nav=document.getElementById('nav');menu.addEventListener('click',()=>nav.classList.toggle('open'));document.getElementById('year').textContent=new Date().getFullYear();
