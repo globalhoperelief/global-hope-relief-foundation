@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://globalhoperelief.github.io/global-hope-relief-foundation/sitemap.xml
